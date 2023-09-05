@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @HarshalNath
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python ML
-- 💞️ I’m looking to collaborate on Python related projects 
+- 🌱 I’m currently learning Web-development
+- 💞️ I’m looking to collaborate on Frontend-development related projects
+- 🤹‍♂️ skills - Html-Css-Javascript-Python-React
 - 📫 How to reach me harshalnath@protonmail.com
 
 <!---
