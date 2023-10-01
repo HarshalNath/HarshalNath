@@ -1,4 +1,4 @@
- # 👋 Hi, I’m @HarshalNath <img src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" width="50" style="border-radius: 9px;">
+ # 👋 Hi, I’m HarshalNath <img src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" width="50" style="border-radius: 9px;">
 - 👀 I’m interested in `ReactJs` and `NextJs`
 - 🌱 I’m currently learning `Web-development`
 - 💞️ I’m looking to collaborate on Frontend-development related projects
