@@ -1,7 +1,7 @@
  # 👋 Hi, I’m HarshalNath <img src="https://media.giphy.com/media/fByehYIrOIzO8XolJK/giphy.gif" width="50" style="border-radius: 9px;">
-- 👀 I’m interested in `ReactJs` and `NextJs`
+- 👀  I'm actively learning `ReactJS` and `NextJS` to build dynamic and engaging web applications.
 - 🌱 I’m currently learning `Web-development`
-- 💞️ I’m looking to collaborate on Frontend-development related projects
+- 💞️ Eager to collaborate on frontend projects to learn from experienced developers and contribute to innovative solutions.
 ## ♨ Languages and Tools:
 [![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
